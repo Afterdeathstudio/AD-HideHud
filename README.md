@@ -8,7 +8,7 @@ A lightweight and customizable FiveM resource that allows you to hide specific e
 
 ## 🛠️ Supported Frameworks
 
-- [ESX](https://github.com/esx-framework/esx_core)
+- This resouce is standalone
 
 ## 🔗 Dependencies
 

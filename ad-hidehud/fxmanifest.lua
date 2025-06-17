@@ -1,7 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TenTypeeek'
+author 'AfterDeath'
+description 'Coded by: TenTypeeek'
 version '1.0.0'
 
 client_script 'config.lua'
